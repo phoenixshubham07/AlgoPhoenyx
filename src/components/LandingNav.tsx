@@ -38,7 +38,7 @@ export default function LandingNav() {
           <a href="/judgement-hall" className="nav-link">Judgement Hall</a>
         </nav>
         <div className="nav-actions">
-          <a href="#" className="btn btn-primary-gold">Login</a>
+          <a href="/login.html" className="btn btn-primary-gold">Login</a>
         </div>
       </div>
     </header>

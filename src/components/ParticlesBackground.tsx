@@ -90,8 +90,8 @@ const ParticlesBackground = () => {
           color: lineColor,
           distance: 150,
           enable: true,
-          opacity: 0.6,
-          width: 1,
+          opacity: 0.9,
+          width: 3,
           consent: false,
           triangles: {
             enable: false,
@@ -127,7 +127,7 @@ const ParticlesBackground = () => {
           type: 'circle',
         },
         size: {
-          value: { min: 1, max: 3 },
+          value: { min: 2, max: 5 },
           animation: {
             enable: false,
           },

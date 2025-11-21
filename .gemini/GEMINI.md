@@ -56,6 +56,14 @@ To boost engagement in The Tavern (community hub), the following features must b
 * **Micro-Games Integration:**
     * **Dojo:** A dedicated space for 1v1 coding competitions and duels.
     * **Rosters (Critique Features):** Dedicated areas for users to submit their **Resume** and **Portfolio** for constructive critique and "roasting" by the community.
+* **1v1 Collaborative Coding MVP Roadmap:**
+    *   **Day 1 (Tue, Nov 18):** Project Setup (React, Supabase for auth).
+    *   **Day 2 (Wed, Nov 19):** Collaborative Editor (Monaco, Yjs, Liveblocks).
+    *   **Day 3 (Thu, Nov 20):** Chat & UI (Liveblocks for chat).
+    *   **Day 4 (Fri, Nov 21):** Code Execution (JDoodle API).
+    *   **Day 5 (Sat, Nov 22):** "Resume Roaster" (Gemini Pro on Vercel).
+    *   **Day 6 (Sun, Nov 23):** Voice/Video (Daily.co) & Refinement.
+    *   **Day 7 (Mon, Nov 24):** Deployment (Vercel) & Final Tests.
 * **Discord-like Community Features:** The Tavern must have rich, real-time community functionalities that mimic popular features from platforms like Discord (e.g., real-time chat, voice channels, and group organization).
 
 ## 5. Mission

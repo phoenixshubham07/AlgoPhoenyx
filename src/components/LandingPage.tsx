@@ -160,7 +160,7 @@ const LandingPage = () => {
               Finding the Spark at the Nexus of Creativity and Code.
             </p>
             <div className="hero-actions">
-              <button className="btn btn-primary-gold">Login</button>
+              <a href="/login.html"><button className="btn btn-primary-gold">Login</button></a>
               <button className="btn btn-outline-cyan">Demo Protocol</button>
             </div>
           </div>
